@@ -9,7 +9,6 @@ A RESTful Inventory Management API built with Java and Spring Boot that helps bu
 * Low Stock Alerts
 * Stock Quantity Updates
 * RESTful API Architecture
-* Validation and Exception Handling
 * Database Integration
 * Layered Architecture (Controller, Service, Repository)
 * Clean and Maintainable Code Structure
